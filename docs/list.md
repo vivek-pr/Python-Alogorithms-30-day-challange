@@ -1,4 +1,4 @@
-#List
+# List
 ```
 List in python is a data structure which is mutable(changeable) ordered sequence of data. Each element in list is called an item and has an index.
 Some of the comman list functions and method for comman actions are below
@@ -10,7 +10,7 @@ Sub-Lists -  Slicing, in-place, copy
 Iteration - for lops, while loops
 ```
 
-#####Sort
+##### Sort
 ```.env
 Sorting is any process of arranging items systematically.
 For list python provides one funtction and one methods.
@@ -24,7 +24,7 @@ sorted function:-
 sorted(list1) it doesn't sort the list1 value, but it returns a sorted list
 ```
 
-#####Find
+##### Find
 ```
 list1 = [11,100,-1,2,0,3]
 
@@ -69,7 +69,7 @@ clear() :- This function is used to erase all the elements of list. After this o
 reverse() :- This function reverses the elements of list.
 ```
 
-#####SubLists
+##### SubLists
 ```
 Sublist are the list from the provided list
 list[start:end:steps]

@@ -1,4 +1,4 @@
-#Execution Flow
+# Execution Flow
 ```
 In python code get executed sequentially. To break the execution flow we use conditions.
 Ex-
@@ -11,7 +11,7 @@ else:
     print("Invalid Entry")
 ```
 
-#####Conditional Operators
+##### Conditional Operators
 ```
 Operators help us in controling the flow.
 > - less than

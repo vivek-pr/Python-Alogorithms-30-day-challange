@@ -1,5 +1,5 @@
-#Numbers, Math, Typecasting and Input
-###**Numbers**
+# Numbers, Math, Typecasting and Input
+### **Numbers**
 ```
 Python provides 3 different types of objects for numbers.
 - int
@@ -46,7 +46,7 @@ random.randit(start_digit, end_digit)
 
 ```
 
-###**Casting**
+### **Casting**
 ```
 Casting is a function used to convert a data type from one form to another if it is compatible.
 ex:- s1 = "12"
@@ -56,7 +56,7 @@ other casting operators
 str(), float(), int()
 ```
 
-###**Getting input from user**
+### **Getting input from user**
 ```.env
 We use the input keyword to get input from the command-line.
 Eg:

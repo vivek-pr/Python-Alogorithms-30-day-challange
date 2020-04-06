@@ -1,4 +1,4 @@
-#String Built-in functions
+# String Built-in functions
 
 **Functions**
 ```

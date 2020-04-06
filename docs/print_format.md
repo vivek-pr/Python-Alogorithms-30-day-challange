@@ -1,4 +1,4 @@
-#Print Formatting And Special Characters
+# Print Formatting And Special Characters
 **Use**
 ```
 We use the print function to print values(passed variable value) on a console.
